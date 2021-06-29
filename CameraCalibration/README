@@ -1,0 +1,6 @@
+[Run]
+./build/CameraCalibration    in_VID5.xml
+
+
+[Image Configuration]
+Image Path should be specified in VID5.xml
