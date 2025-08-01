@@ -2,6 +2,7 @@
 cd build
 rm -rf ./*
 cmake ..
+make
 
 [Run]
 ./build/CameraCalibration    in_VID5.xml
